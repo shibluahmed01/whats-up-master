@@ -4,7 +4,7 @@
       <div class="header">
         <div class="avatar">
           <img
-            src="https://scontent.frjh1-1.fna.fbcdn.net/v/t39.30808-6/326455273_1819425548414981_5190579311752826900_n.jpg?stp=dst-jpg_p526x296&_nc_cat=107&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeFXoYyY5ewQgiPQiDePfof7GSlvSrOFIzcZKW9Ks4UjN-CL1JLDTRvnirs26BCa3g4_7rtZc4vnkn2RpEjFI7VJ&_nc_ohc=B6DY8p5jh-sAX8UIMAh&_nc_ht=scontent.frjh1-1.fna&oh=00_AfAQDZINRf2CfOB_ce18PVnrvk3J1kle9j7cZ9c7HwWSow&oe=63DEF7CA"
+            src="https://scontent.frjh1-1.fna.fbcdn.net/v/t39.30808-6/328890854_6049339775125967_4957679846861641276_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEsEQMGABUL1QCAWvQYGi_1veZIDFRML2C95kgMVEwvYPFgzNY-WuJXHuSh_neYNCPizwJdAuvXfhItdWXbsiED&_nc_ohc=CLkjZCaDR9kAX9IfyZH&_nc_ht=scontent.frjh1-1.fna&oh=00_AfBmtwgkZR4b8yAPktk_i4oavswXEjbeYCd5oSksF4GA4g&oe=642D9D5B"
             alt=""
           />
         </div>
