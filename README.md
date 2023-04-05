@@ -1,4 +1,4 @@
-# whatsapp
+# Whatsapp
 
 Whatsapp clone web app using Vue.js and Nuxt.js! The inclusion of secure Login and Logout functionality through Google Firebase is excellent news as well.
 
